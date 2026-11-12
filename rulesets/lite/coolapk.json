@@ -4,10 +4,14 @@
     {
       "domain_suffix": [
         "analytics.oceanengine.com",
+        "api-access.pangolin-sdk-toutiao.com",
+        "api-access.pangolin-sdk-toutiao1.com",
+        "apps.bytesfield.com",
         "auni.telecome.cn",
         "gromore.pangolin-sdk-toutiao.com",
         "lf-cdn-tos.bytescm.com",
         "lf3-analytics.bytescm.com",
+        "log-api.pangolin-sdk-toutiao-b.com",
         "log-api.pangolin-sdk-toutiao.com",
         "mi.gdt.qq.com",
         "p11.douyinpic.com",

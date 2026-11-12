@@ -66,14 +66,14 @@ sing-box 1.14 起缺失会直接 FATAL 退出。
 
 | 文件 | 条数 | 说明 |
 |---|---|---|
-| `rulesets/lite/all.{json,srs}` | 64 | 全部纯广告域名，**推荐** |
-| `rulesets/full/all.{json,srs}` | 111 | 加 SDK 底座与埋点上报 |
-| `rulesets/lite/coolapk.{json,srs}` | 27 | 酷安 |
-| `rulesets/lite/yike.{json,srs}` | 20 | 一刻相册 |
-| `rulesets/lite/dongqiudi.{json,srs}` | 17 | 懂球帝 |
+| `rulesets/lite/all.{json,srs}` | 57 | 全部纯广告域名，**推荐** |
+| `rulesets/full/all.{json,srs}` | 104 | 加 SDK 底座与埋点上报 |
+| `rulesets/lite/coolapk.{json,srs}` | 31 | 酷安 |
+| `rulesets/lite/yike.{json,srs}` | 22 | 一刻相册 |
+| `rulesets/lite/dongqiudi.{json,srs}` | 20 | 懂球帝 |
 | `rulesets/lite/qqmail.{json,srs}` | 8 | QQ邮箱 |
 | `rulesets/lite/zhihu.{json,srs}` | 4 | 知乎 |
-| `rulesets/lite/hupu.{json,srs}` | 3 | 虎扑 |
+| `rulesets/lite/hupu.{json,srs}` | 4 | 虎扑 |
 | `rulesets/lite/bilibili.{json,srs}` | 2 | 哔哩哔哩 |
 
 **lite** — 纯广告域名（含 App 自有广告平台）。不影响 App 任何功能。
