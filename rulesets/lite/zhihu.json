@@ -1,0 +1,13 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain_suffix": [
+        "b-gtc.gepush.com",
+        "b.qchannel03.cn",
+        "sdk.e.qq.com",
+        "sugar.zhihu.com"
+      ]
+    }
+  ]
+}

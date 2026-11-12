@@ -2,7 +2,7 @@
 
 基于真机抓包整理的 sing-box 广告规则集。
 
-**已覆盖 6 个 App**：酷安、懂球帝、QQ邮箱、哔哩哔哩、一刻相册、虎扑
+**已覆盖 7 个 App**：酷安、懂球帝、QQ邮箱、哔哩哔哩、一刻相册、虎扑、知乎
 
 ## 直接订阅
 
@@ -66,14 +66,15 @@ sing-box 1.14 起缺失会直接 FATAL 退出。
 
 | 文件 | 条数 | 说明 |
 |---|---|---|
-| `rulesets/lite/all.{json,srs}` | 59 | 全部纯广告域名，**推荐** |
-| `rulesets/full/all.{json,srs}` | 98 | 加 SDK 底座与埋点上报 |
-| `rulesets/lite/coolapk.{json,srs}` | 20 | 酷安 |
-| `rulesets/lite/dongqiudi.{json,srs}` | 20 | 懂球帝 |
+| `rulesets/lite/all.{json,srs}` | 64 | 全部纯广告域名，**推荐** |
+| `rulesets/full/all.{json,srs}` | 111 | 加 SDK 底座与埋点上报 |
+| `rulesets/lite/coolapk.{json,srs}` | 27 | 酷安 |
+| `rulesets/lite/yike.{json,srs}` | 20 | 一刻相册 |
+| `rulesets/lite/dongqiudi.{json,srs}` | 17 | 懂球帝 |
 | `rulesets/lite/qqmail.{json,srs}` | 8 | QQ邮箱 |
+| `rulesets/lite/zhihu.{json,srs}` | 4 | 知乎 |
+| `rulesets/lite/hupu.{json,srs}` | 3 | 虎扑 |
 | `rulesets/lite/bilibili.{json,srs}` | 2 | 哔哩哔哩 |
-| `rulesets/lite/yike.{json,srs}` | 21 | 一刻相册 |
-| `rulesets/lite/hupu.{json,srs}` | 4 | 虎扑 |
 
 **lite** — 纯广告域名（含 App 自有广告平台）。不影响 App 任何功能。
 
@@ -92,6 +93,7 @@ sing-box 1.14 起缺失会直接 FATAL 退出。
 | **QQ邮箱** | 广点通（UA 里 `GDTADNetClient`） | ✓✓ |
 | **懂球帝** | 第三方 + 自有 `ap.`/`dab.` | ✓✓ |
 | **虎扑** | 自有 `goblin.hupu.com`（独立子域） | ✓✓ |
+| **知乎** | 业务接口内联（`ad_interval`、`X-AD` 头） | △ 只能断追踪 |
 | **哔哩哔哩** | 自有 `cm.bilibili.com` | △ 只能断归因 |
 
 **规律**：广告只要在独立子域，哪怕是自有的也能拦；广告和业务挤在同一个子域就没法用域名规则区分（网易邮箱的 `appconf.mail.163.com/mmad` 就是这种情况，故未收录）。

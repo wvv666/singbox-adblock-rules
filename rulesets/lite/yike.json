@@ -7,8 +7,6 @@
         "ad.baihemob.com",
         "ad.shunchangzhixing.com",
         "adimage.bwton.com",
-        "api-access.pangolin-sdk-toutiao.com",
-        "api-access.pangolin-sdk-toutiao1.com",
         "mbd.baidu.com",
         "mobads.baidu.com",
         "nsclick.baidu.com",
@@ -23,6 +21,7 @@
         "sdk.beizi.biz",
         "sdk.zhangyuyidong.cn",
         "tcbox.baidu.com",
+        "tnc3-bjlgy.zijieapi.com",
         "trace.aqyad.com"
       ]
     }

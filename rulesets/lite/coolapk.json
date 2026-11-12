@@ -4,12 +4,12 @@
     {
       "domain_suffix": [
         "analytics.oceanengine.com",
-        "api-access.pangolin-sdk-toutiao.com",
-        "api-access.pangolin-sdk-toutiao1.com",
         "auni.telecome.cn",
+        "gromore.pangolin-sdk-toutiao.com",
+        "lf-cdn-tos.bytescm.com",
         "lf3-analytics.bytescm.com",
-        "log-api.pangolin-sdk-toutiao-b.com",
         "log-api.pangolin-sdk-toutiao.com",
+        "mi.gdt.qq.com",
         "p11.douyinpic.com",
         "p26-be-pack-sign.pglstatp-toutiao.com",
         "p26-sign.douyinpic.com",
@@ -18,11 +18,18 @@
         "p3.douyinpic.com",
         "p9-aio.ecombdimg.com",
         "p9-sign.douyinpic.com",
+        "pgdt.ugdtimg.com",
+        "sdk.e.qq.com",
         "sf3-fe-tos.pglstatp-toutiao.com",
         "sf6-fe-tos.pglstatp-toutiao.com",
+        "tnc3-alisc1.zijieapi.com",
+        "tnc3-bjlgy.zijieapi.com",
         "v11-be-pack.pglstatp-toutiao.com",
         "v26-be-pack.pglstatp-toutiao.com",
-        "v9-be-pack.pglstatp-toutiao.com"
+        "v2mi.gdt.qq.com",
+        "v9-be-pack.pglstatp-toutiao.com",
+        "webcast-open.douyin.com",
+        "win.gdt.qq.com"
       ]
     }
   ]
