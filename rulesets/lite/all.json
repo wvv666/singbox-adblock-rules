@@ -1,0 +1,42 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain_suffix": [
+        "adprolink.xwpbj.com",
+        "analytics.oceanengine.com",
+        "api-access.pangolin-sdk-toutiao.com",
+        "api-access.pangolin-sdk-toutiao1.com",
+        "api.touch-moblie.com",
+        "apps.bytesfield.com",
+        "auni.telecome.cn",
+        "dmp-collect.xdmssp.com",
+        "fapi.xdrun.com",
+        "g.cn.miaozhen.com",
+        "gdfp.gifshow.com",
+        "lf3-analytics.bytescm.com",
+        "log-api.pangolin-sdk-toutiao-b.com",
+        "log-api.pangolin-sdk-toutiao.com",
+        "mobads.baidu.com",
+        "p11.douyinpic.com",
+        "p26-be-pack-sign.pglstatp-toutiao.com",
+        "p26-sign.douyinpic.com",
+        "p3-aio.ecombdimg.com",
+        "p3-sign.douyinpic.com",
+        "p3.douyinpic.com",
+        "p9-aio.ecombdimg.com",
+        "p9-sign.douyinpic.com",
+        "rtbcallback.sigmob.cn",
+        "sdk.e.qq.com",
+        "sf3-fe-tos.pglstatp-toutiao.com",
+        "sf6-fe-tos.pglstatp-toutiao.com",
+        "tm.sigmob.cn",
+        "v11-be-pack.pglstatp-toutiao.com",
+        "v26-be-pack.pglstatp-toutiao.com",
+        "v9-be-pack.pglstatp-toutiao.com",
+        "webcast-open.douyin.com",
+        "win.gdt.qq.com"
+      ]
+    }
+  ]
+}

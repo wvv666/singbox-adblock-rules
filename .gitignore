@@ -1,0 +1,13 @@
+# 不公开：含使用统计与抓包分析
+data/
+docs-*.md
+scripts/
+raw/
+*.pcap
+*.har
+flows.json
+hosts-*.txt
+rs_test/
+*.log
+__pycache__/
+*.pyc
