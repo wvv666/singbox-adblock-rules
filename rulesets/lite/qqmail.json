@@ -1,0 +1,17 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain_suffix": [
+        "c.gdt.qq.com",
+        "ii.gdt.qq.com",
+        "rpt.gdt.qq.com",
+        "sdkreport.e.qq.com",
+        "tangram.e.qq.com",
+        "v.gdt.qq.com",
+        "vr.gdt.qq.com",
+        "xs.gdt.qq.com"
+      ]
+    }
+  ]
+}

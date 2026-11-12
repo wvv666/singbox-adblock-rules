@@ -1,0 +1,30 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ad-api.adn-plus.com.cn",
+        "ad.baihemob.com",
+        "ad.shunchangzhixing.com",
+        "adimage.bwton.com",
+        "api-access.pangolin-sdk-toutiao.com",
+        "api-access.pangolin-sdk-toutiao1.com",
+        "mbd.baidu.com",
+        "mobads.baidu.com",
+        "nsclick.baidu.com",
+        "pic5.iqiyipic.com",
+        "qh-material.taobao.com",
+        "report.shunchangzhixing.com",
+        "s.1rtb.net",
+        "sdk-track.66mobi.com",
+        "sdk.1rtb.net",
+        "sdk.adx.adwangmai.com",
+        "sdk.aqyad.com",
+        "sdk.beizi.biz",
+        "sdk.zhangyuyidong.cn",
+        "tcbox.baidu.com",
+        "trace.aqyad.com"
+      ]
+    }
+  ]
+}

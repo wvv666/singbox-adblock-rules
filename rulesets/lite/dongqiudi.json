@@ -3,32 +3,26 @@
   "rules": [
     {
       "domain_suffix": [
-        "gdt.qq.com",
-        "e.qq.com",
-        "pgdt.gtimg.cn",
-        "sigmob.cn",
-        "sigmob.com",
-        "pangolin-sdk-toutiao.com",
-        "pangolin-sdk-toutiao1.com",
-        "pangolin-sdk-toutiao-b.com",
-        "pglstatp-toutiao.com",
-        "webcast-open.douyin.com",
-        "apps.bytesfield.com",
-        "mobads.baidu.com",
-        "mobads-logs.baidu.com",
-        "cpro.baidustatic.com",
-        "api.touch-moblie.com",
         "adprolink.xwpbj.com",
+        "ap.dongqiudi.com",
+        "api-access.pangolin-sdk-toutiao.com",
+        "api-access.pangolin-sdk-toutiao1.com",
+        "api.touch-moblie.com",
+        "apps.bytesfield.com",
+        "dab.dongqiudi.com",
         "dmp-collect.xdmssp.com",
-        "xdrun.com",
+        "fapi.xdrun.com",
         "g.cn.miaozhen.com",
         "gdfp.gifshow.com",
-        "yunxish.com",
-        "iggrowth.cn",
-        "sdklog.zhangyuyidong.cn",
-        "js.a.kspkg.com",
-        "ap.dongqiudi.com",
-        "dab.dongqiudi.com"
+        "log-api.pangolin-sdk-toutiao-b.com",
+        "log-api.pangolin-sdk-toutiao.com",
+        "mobads.baidu.com",
+        "rtbcallback.sigmob.cn",
+        "sdk.e.qq.com",
+        "sf3-fe-tos.pglstatp-toutiao.com",
+        "tm.sigmob.cn",
+        "webcast-open.douyin.com",
+        "win.gdt.qq.com"
       ]
     }
   ]

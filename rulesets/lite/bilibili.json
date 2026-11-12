@@ -1,0 +1,11 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain_suffix": [
+        "cm.bilibili.com",
+        "gaoneng.bilibili.com"
+      ]
+    }
+  ]
+}
